@@ -69,14 +69,17 @@ p {
     margin: 10px 0;
 }
 
-.card button {
+.card a {
     background: rgb(250, 69, 69);
     color: white;
     border: none;
-    padding: 10px;
+    padding: 7px;
     cursor: pointer;
     width: 100%;
     border-radius: 5px;
+    font-family: MinecraftTen;
+    font-size: 20px;
+    letter-spacing: 2px;
 }
 
 @media (max-width: 768px) {
